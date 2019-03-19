@@ -1,3 +1,5 @@
+Reference: https://medium.com/vickdata/predicting-animal-shelter-outcomes-4c5fad5dbb4f
+
 # Shelter-animal-outcome-prediction
 Kaggle Practice dataset, Main focus on converting categorical variable into numeric variables.
 Multi class classification problem.
